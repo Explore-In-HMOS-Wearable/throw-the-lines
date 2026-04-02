@@ -1,0 +1,40 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "canvas_background_color",
+      "value": "#F2EDE4"
+    },
+    {
+      "name": "color_bg_failed",
+      "value": "#E74C3C"
+    },
+    {
+      "name": "color_bg_passed",
+      "value": "#27AE60"
+    },
+    {
+      "name": "color_dark",
+      "value": "#1A1A1A"
+    },
+    {
+      "name": "color_dark_alpha_25",
+      "value": "#401A1A1A"
+    },
+    {
+      "name": "color_dark_alpha_35",
+      "value": "#591A1A1A"
+    },
+    {
+      "name": "color_dark_alpha_45",
+      "value": "#731A1A1A"
+    },
+    {
+      "name": "color_dark_alpha_55",
+      "value": "#8C1A1A1A"
+    }
+  ]
+}
